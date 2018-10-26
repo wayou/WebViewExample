@@ -5,7 +5,9 @@
 //  Created by wayou on 10/26/18.
 //  Copyright © 2018 wayou. All rights reserved.
 //
-//  reference: https://www.hackingwithswift.com/read/4/2/creating-a-simple-browser-with-wkwebview
+//  references:
+//  - https://www.hackingwithswift.com/read/4/2/creating-a-simple-browser-with-wkwebview
+//  - https://stackoverflow.com/questions/49638653/load-local-web-files-resources-in-wkwebview
 
 
 import UIKit

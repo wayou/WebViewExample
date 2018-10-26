@@ -2,9 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:/Users/wayou/Documents/dev/xcode/WebViewExample/WebViewExample/local_html">
-   </FileRef>
-   <FileRef
       location = "self:WebViewExample.xcodeproj">
    </FileRef>
 </Workspace>

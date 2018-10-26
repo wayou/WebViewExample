@@ -19,3 +19,12 @@ Modify `ViewController.swift` as needed.
 2. Code formatting
 
  <kbd>Command</kbd> + <kbd>A</kbd> to select all code and then <kbd>Control</kbd> + <kbd>I</kbd>.
+
+
+### Misc
+
+tested with the following environments:
+
+- swfit 4.1
+- xcode 9.4.1
+- MacOS Mojave 10.14 beta
