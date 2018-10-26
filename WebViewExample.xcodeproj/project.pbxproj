@@ -14,6 +14,7 @@
 		30A923402182F68A0034A367 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 30A9233E2182F68A0034A367 /* LaunchScreen.storyboard */; };
 		30A9234B2182F68A0034A367 /* WebViewExampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30A9234A2182F68A0034A367 /* WebViewExampleTests.swift */; };
 		30A923562182F68A0034A367 /* WebViewExampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30A923552182F68A0034A367 /* WebViewExampleUITests.swift */; };
+		30A923672182FDCD0034A367 /* local_html in Resources */ = {isa = PBXBuildFile; fileRef = 30A923662182FDCD0034A367 /* local_html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		30A923512182F68A0034A367 /* WebViewExampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WebViewExampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		30A923552182F68A0034A367 /* WebViewExampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebViewExampleUITests.swift; sourceTree = "<group>"; };
 		30A923572182F68A0034A367 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		30A923662182FDCD0034A367 /* local_html */ = {isa = PBXFileReference; lastKnownFileType = folder; path = local_html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		30A923342182F6890034A367 /* WebViewExample */ = {
 			isa = PBXGroup;
 			children = (
+				30A923662182FDCD0034A367 /* local_html */,
 				30A923352182F6890034A367 /* AppDelegate.swift */,
 				30A923372182F6890034A367 /* ViewController.swift */,
 				30A923392182F6890034A367 /* Main.storyboard */,
@@ -230,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				30A923402182F68A0034A367 /* LaunchScreen.storyboard in Resources */,
+				30A923672182FDCD0034A367 /* local_html in Resources */,
 				30A9233D2182F68A0034A367 /* Assets.xcassets in Resources */,
 				30A9233B2182F6890034A367 /* Main.storyboard in Resources */,
 			);
@@ -431,7 +435,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = B2YA4S29RG;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = WebViewExample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -449,7 +453,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = B2YA4S29RG;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = WebViewExample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
