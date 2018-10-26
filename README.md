@@ -10,13 +10,13 @@ Modify `ViewController.swift` as needed.
 
 ### Tips
 
-1. Running the example
+#### Running the example
 
 - Clone the repo. 
 - Open `WebViewExample.xcodeproj` with xcode
 - <kbd>Command</kbd> + <kbd>R</kbd> to launch the example in simulator.
 
-2. Code formatting
+#### Code formatting
 
  <kbd>Command</kbd> + <kbd>A</kbd> to select all code and then <kbd>Control</kbd> + <kbd>I</kbd>.
 
